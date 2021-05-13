@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "511369160527",
+    "project_id": "scan-wmc-app",
+    "storage_bucket": "scan-wmc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511369160527:android:6f6c3cc03ff768778e073a",
+        "android_client_info": {
+          "package_name": "com.example.wmc_scan_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511369160527-03reg0ll8oj58fqr8i250likgrivisi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPljUaNgf1cYh2RnUIXs3Cd06X7uN_lOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511369160527-03reg0ll8oj58fqr8i250likgrivisi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511369160527:android:23e5d79515c059578e073a",
+        "android_client_info": {
+          "package_name": "com.example.wmc_scanner_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511369160527-03reg0ll8oj58fqr8i250likgrivisi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPljUaNgf1cYh2RnUIXs3Cd06X7uN_lOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511369160527-03reg0ll8oj58fqr8i250likgrivisi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
